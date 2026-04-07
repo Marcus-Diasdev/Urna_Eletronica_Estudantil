@@ -45,7 +45,9 @@ Ao abrir o programa, você verá a tela de Administração.
 ## 🚀 Como Executar o Projeto (Código Fonte)
 
 ### Pré-requisitos
+
 Certifique-se de ter o **Python 3.x** instalado. Instale as dependências:
+
 ```bash
 pip install Pillow pygame
 ```
