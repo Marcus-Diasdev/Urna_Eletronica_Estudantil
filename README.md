@@ -123,7 +123,7 @@ Certifique-se de ter o **Python 3.x** instalado.
 Instale as dependências:
 
 ```bash
-pip install Pillow pygame
+   pip install Pillow pygame
 ```
 
 Execute o arquivo principal:
@@ -178,4 +178,4 @@ Se você for usar o sistema fixo no computador da escola e quiser um ícone na �
 ---
 
 
-            Feito com 💙 por [Marcus Dias](https://www.linkedin.com/in/marcus-dias-tech/)
+Feito com 💙 por [Marcus Dias](https://www.linkedin.com/in/marcus-dias-tech/)
