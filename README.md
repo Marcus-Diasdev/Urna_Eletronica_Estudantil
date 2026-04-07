@@ -177,5 +177,6 @@ Se você for usar o sistema fixo no computador da escola e quiser um ícone na �
 
 ---
 
-
-Feito com 💙 por [Marcus Dias](https://www.linkedin.com/in/marcus-dias-tech/)
+<div align="center">
+  Feito com 💙 por <a href="https://www.linkedin.com/in/marcus-dias-tech/">Marcus Dias</a>
+</div>
