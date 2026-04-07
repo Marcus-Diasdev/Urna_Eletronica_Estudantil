@@ -115,6 +115,7 @@ Basta baixar os arquivos do repositório, extrair a pasta e dar um duplo clique 
 Certifique-se de ter o **Python 3.x** instalado. 
 
 1. Clone este repositório:
+
    ```bash
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
 ```
