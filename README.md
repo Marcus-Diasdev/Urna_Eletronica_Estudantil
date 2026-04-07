@@ -48,6 +48,7 @@ Ao abrir o programa, você verá a tela de Administração.
 Certifique-se de ter o **Python 3.x** instalado. Instale as dependências:
 ```bash
 pip install Pillow pygame
+```
 
 ### Rodando o código
 
@@ -55,6 +56,7 @@ Clone este repositório:
 
 ```bash
 git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+```
 
 # Urna Eletrônica Estudantil 🗳️
 
@@ -113,16 +115,19 @@ Certifique-se de ter o **Python 3.x** instalado.
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+```
 
 Instale as dependências:
 
 ```bash
 pip install Pillow pygame
+```
 
 Execute o arquivo principal:
 
 ```bash
 python Eleição_ex.py
+```
 
 ## 🛠️ Guia para Gerar um Novo Executável (.exe)
 
@@ -131,10 +136,12 @@ Como o projeto já inclui um `.exe`, este passo só é necessário se você modi
 1. Instale o PyInstaller no terminal:
    ```bash
    pip install pyinstaller
+   ```
 
 2. Gere o executável (esse comando oculta a tela preta de terminal e empacota tudo):
    ```bash
    pyinstaller --noconsole --onefile Eleição_ex.py
+   ```
 
 3. O novo arquivo '.exe' será gerado dentro da pasta 'dist'. Substitua o antigo por este novo.
 
