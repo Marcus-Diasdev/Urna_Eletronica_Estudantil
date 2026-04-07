@@ -174,3 +174,10 @@ Se você for usar o sistema fixo no computador da escola e quiser um ícone na �
 3. No seu Desktop, clique com o botão direito no atalho recém-criado e vá em **Propriedades**.
 4. Certifique-se de que o campo **"Iniciar em"** contém o caminho exato da pasta original onde estão os arquivos do projeto (ex: `C:\UrnaEstudantil`).
 5. Clique em **OK**. Pronto!
+
+---
+
+
+---
+
+Feito com 💙 por [Marcus Dias](https://www.linkedin.com/in/marcus-dias-tech/)
